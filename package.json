@@ -1,18 +1,28 @@
 {
-  "name": "@ader/icons",
-  "version": "1.0.0",
+  "name": "@adersolutions/icons",
+  "version": "1.0.1",
   "description": "A collection of SVG icons for web development",
   "main": "src/index.js",
   "scripts": {
     "build": "echo \"No build necessary\"",
     "test": "echo \"No tests yet\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soufiyanbenallal/ader-svg"
+  },
   "keywords": [
     "svg",
-    "icons",
+    "vue",
+    "polaris",
+    "shopify",
+    "shopify plolaris vue 3",
     "web",
     "npm"
   ],
-  "author": "Benallal soufiyan",
+  "author": {
+    "name": "Soufiyan",
+    "email": "benallalsoufiane1@gmail.com"
+  },
   "license": "MIT"
 }
