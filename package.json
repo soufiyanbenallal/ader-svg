@@ -1,6 +1,6 @@
 {
   "name": "@adersolutions/icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of SVG icons for web development",
   "main": "src/index.js",
   "scripts": {
