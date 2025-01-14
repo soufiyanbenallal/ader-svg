@@ -36,8 +36,7 @@ import { CashDollarFilledIcon } from '@adersolutions/icons';
 
 ## Documentation
 
-<!-- soon -->
-<!-- For detailed documentation and API reference, please visit the [official documentation](https://example.com/ader-svg-docs). -->
+For detailed documentation and API reference, please visit the [official documentation](https://ader-icons-doc.vercel.app).
 
 ## Contributing
 
