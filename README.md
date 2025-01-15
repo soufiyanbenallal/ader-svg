@@ -14,12 +14,12 @@ Ader SVG is a powerful and easy-to-use library for working with SVG (Scalable Ve
 You can install Ader SVG using npm:
 
 ```sh
-pnpm i ader-svg
+pnpm i @adersolutions/icons
 ```
 or 
 
 ```sh
-yarn add ader-svg
+yarn add @adersolutions/icons
 ```
 
 ## Usage
