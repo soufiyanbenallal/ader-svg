@@ -1,4 +1,7 @@
+// src/index.d.ts
 declare module '@adersolutions/icons' {
-    const content: string;  // Assuming the icons are raw SVG strings
+    // Export the icons as a string (if you are exporting raw SVG strings)
+    const content: { [key: string]: string };
     export default content;
-}
+  }
+  
