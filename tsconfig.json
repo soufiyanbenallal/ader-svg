@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "esnext",              // Specify ECMAScript target version
+      "module": "commonjs",            // Module system
+      "strict": true,                  // Enable strict type-checking options
+      "esModuleInterop": true,         // Enable interoperability between CommonJS and ES modules
+      "skipLibCheck": true,            // Skip library type checking
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node"       // Resolve modules similar to Node.js
+    },
+    "include": [
+      "src/index.d.ts",                // Ensure TypeScript includes the type definitions
+      "src/**/*.js",                   // Include all JavaScript files in your package
+      "src/svg/**/*"                    // Include all SVG files
+, "src/indesx.d.ts"    ]
+  }
+  

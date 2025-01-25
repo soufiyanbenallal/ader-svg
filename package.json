@@ -1,8 +1,8 @@
 {
   "name": "@adersolutions/icons",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A collection of SVG icons for web development",
-  "main": "src/index.js",
+  "main": "src/index.js", 
   "types": "src/index.d.ts",
   "scripts": {
     "build": "echo \"No build necessary\"",
@@ -13,8 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/soufiyanbenallal/ader-svg"
   },
-  "files": [
-    "src/"
+"files": [
+    "src/",
+    "src/index.d.ts",
+    "src/svg/" 
   ],
   "keywords": [
     "svg",
